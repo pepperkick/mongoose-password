@@ -1,0 +1,14 @@
+{
+  "name": "@pepperkick/mongoose-password",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PepperKick",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "argon2": "^0.20.1"
+  }
+}
